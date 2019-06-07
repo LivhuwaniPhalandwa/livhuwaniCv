@@ -1,0 +1,111 @@
+body{
+align-content: center;
+text-align: center;
+
+
+
+/* Skills bar graph*/
+}
+.container {
+    width: 52%;
+    background-color: rgb(194, 190, 190);
+    margin-right: 400px;
+  }
+  
+  .SKILLS{
+    text-align: center;
+    padding: 5px;
+    color: white;
+  }
+  
+  .Testing {width: 70%; background-color: #4CAF50;}
+  .Requirements gathering {width: 80%; background-color: #2196F3;}
+  .Problem solving {width: 90%; background-color: #f44336;}
+  .Process Modelling {width: 70%; background-color: #808080;}
+
+.center{
+    width: 8004px;
+    margin: 0 auto;
+}
+
+table{
+margin-top: 58px;
+align-content: center;
+align-items:center;
+}
+
+.top{
+    p.solid {border-style: 6px solid black;}
+    margin-left: 350px;
+    margin-bottom: 10px;
+    width: 900px;
+   margin-top: 100px;
+}
+
+
+  .fa {
+    padding: 10px;
+    font-size: 1px;
+    width: 5px;
+    text-align: center;
+    text-decoration: blue($color: #000000);
+    margin: 1px 1px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    
+  }
+  
+  p.thick{
+font-weight: bold
+
+ 
+  }
+      
+
+  p.solid {border-style: solid;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif
+    text-align center;
+
+    
+   
+   
+}
+#footer{
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  padding: 20px;
+}
+  
+
+.vl {
+  border-left: 1px solid grey;
+  height: 1650px;
+  position: absolute;
+  margin-left: -3px;
+  top: 0;
+}
+ 
+
+
+
